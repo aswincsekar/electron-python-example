@@ -47,3 +47,7 @@ fabric.properties
 .idea/
 
 node_modules/
+
+example-calc-linux-x64/
+
+**/__pycache__/
